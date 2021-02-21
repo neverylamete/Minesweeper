@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="Resume_text">Resume</string>
+    <string name="Play_text">Play</string>
+    <string name="Setting_text">Setting</string>
+    <string name="Exit_text">Exit</string>
+</resources>
